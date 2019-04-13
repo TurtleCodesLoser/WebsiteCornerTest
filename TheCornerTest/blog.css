@@ -1,0 +1,39 @@
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: rgba(51, 51, 51, 0.048);
+}
+
+li{
+	float: right;
+}
+
+li a{
+	display: flex;
+	color: white;
+	text-align: center;
+	padding: 20px 150px;
+	text-decoration:cornsilk;
+}
+
+/* Change colors */
+li a:hover{
+	background-color: rgba(17, 17, 17, 0.027);
+}
+
+
+.header{
+padding: 30px;
+font-size: 20px;
+text-align: absolute;
+background: white;
+background:url("eyes.gif"); 
+
+}
+
+
+body {
+background:url("vaporwaves.gif") no-repeat center;
+background-size: 3180px, 1080px;

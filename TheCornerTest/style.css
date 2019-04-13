@@ -1,0 +1,55 @@
+body { 
+  background: url("waves.gif.gif") no-repeat fixed center; 
+  background-size: 2480px 2270px;
+}
+
+.TurtleCorner {
+	padding: 60px;
+	text-align: center;
+	color:antiquewhite;
+	font-size: 20px;
+}
+
+body{
+	color: rgba(119, 28, 236, 0.356);
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: rgba(51, 51, 51, 0.048);
+}
+
+li{
+	float: left;
+}
+
+li a{
+	display: flex;
+	color: white;
+	text-align: center;
+	padding: 20px 30px;
+	text-decoration:cornsilk;
+}
+
+/* Change colors */
+li a:hover{
+	background-color: rgba(17, 17, 17, 0.027);
+}
+
+h1 {
+  color:aliceblue;
+}
+
+h3 {
+  text-decoration: underline;
+  color:black;
+}
+
+p {
+  color:black;
+  font-family: serif;
+  font-size: 120%;
+}
